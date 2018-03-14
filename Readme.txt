@@ -1,3 +1,8 @@
+http://www.forkrobotics.com/2012/05/relay-control-over-i2c/
+
+https://learn.sparkfun.com/tutorials/how-to-install-an-attiny-bootloader-with-virtual-usb
+
+
 Micronucleus V2.03
 ==================
 
